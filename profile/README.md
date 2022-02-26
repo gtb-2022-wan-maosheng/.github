@@ -1,4 +1,4 @@
- * Welcome to Maosheng's Organization!
+ *Welcome to Maosheng's Organization!
 
  - hello, this is Wan Maosheng, come from Hubei;
 
