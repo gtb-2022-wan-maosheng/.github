@@ -5,7 +5,6 @@
 
  - graduated from Durham University in 2021;
  <img src="pic/1.jpg" alt="me in the Durham Matriculation" width = "30%">
-![me in the Durham Matriculation](/pic/1.jpg)
 
  - I studied management in both my bachelor and master degree; 
 
@@ -13,7 +12,6 @@
  - Heard that SuperX program is hiring graduates without computer or software background, so Here I am!
 
  - I enjoy travelling with friends;
- ![me in Iceland](/pic/2.jpg)
   <img src="pic/2.jpg" alt="me in Iceland" width = "30%">
 
  - and I like esports and playing video games, like LOL and StarCraft;
