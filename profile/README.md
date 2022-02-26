@@ -3,7 +3,7 @@
  - **Hello, this is Wan Maosheng, come from Hubei;**
 
 
- - **graduated from Durham University in 2021;**
+ - **Graduated from Durham University in 2021;**
  <img src="pic/1.jpg" alt="me in the Durham Matriculation" width = "30%">
 
  - **I studied management in both my bachelor and master degree;**
