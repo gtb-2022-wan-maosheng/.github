@@ -6,7 +6,7 @@
  - **Graduated from Durham University in 2021;**
  <img src="pic/1.jpg" alt="me in the Durham Matriculation" width = "30%">
 
- - **I studied management in both my bachelor and master degree, but keep curious about computer and coding**
+ - **I studied management in both my bachelor and master degree, but keep curious about computer and coding;**
 
 
  - **Heard that SuperX program is hiring graduates without computer or software background, so Here I am!**
